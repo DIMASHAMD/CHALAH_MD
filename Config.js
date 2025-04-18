@@ -16,7 +16,7 @@ SESSION_ID: process.env.SESSION_ID || "",
 OWNER_NUMBER: process.env.SESSION_ID || "94720244981",
 PREFIX: process.env.PREFIX || ".",
 FOOTER: "> *𝐃𝐢𝐚𝐫𝐲 𝐎𝐟 𝐂𝐡𝐚𝐥𝐚𝐡 📔🦋*",   
-JID: process.env.JID || "",
+JID: process.env.JID || "120363414353076763@newsletter",
 LOGO: process.env.LOGO || `https://files.catbox.moe/deiqxp.png`,
 WACHLINK: process.env.WACHLINK || `https://whatsapp.com/channel/0029Vb3v0Fe1dAvw1XUIV61t`,
 ANTI_DELETE: process.env.ANTI_DELETE || "true"
